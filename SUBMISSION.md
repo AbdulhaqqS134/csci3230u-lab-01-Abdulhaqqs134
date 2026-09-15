@@ -5,16 +5,16 @@ real answers here - the `TODO`s must be gone before the check turns green.
 
 ## Name
 
-TODO - your full name
+Abdulhaqq Salawu
 
 ## What I learned
 
-TODO - two or three sentences on something that clicked this lab
+I learned how to create a repository from a template. I also learned about the importance of Conventional Commits.
 
 ## A Git command I will remember
 
-TODO - name one command and say, in a sentence, when you'd reach for it
+git switch: swapping branches of the repository to keep progress organized
 
 ## Evidence (links)
 
-- Merged pull request: TODO (paste the PR URL)
+- Merged pull request: (https://github.com/AbdulhaqqS134/csci3230u-lab-01-Abdulhaqqs134/pull/2)
