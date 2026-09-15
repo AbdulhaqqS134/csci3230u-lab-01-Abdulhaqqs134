@@ -9,7 +9,7 @@ Abdulhaqq Salawu
 I learned how to create a repository from an existing template, and how to properly create and resolve issues.
 
 ## A Git command I will remember
-git switch: swap from one branch of the repository to another.
+git switch: swap from one branch of the repository to another. I also learned about protected branches.
 
 ## Evidence (links)
 
